@@ -1,0 +1,116 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.paragraph {
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.line {
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.shape {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button1 {
+  text-align:left;
+}
+.text_area1 {
+  color:#000000;
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist1 {
+  color:#000000;
+  text-align:left;
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.box_4 {
+  color:#FFFFFF;
+}
+.ellipse {
+}
+.image {
+  color:#000000;
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.horizontal_line {
+}
+.paragraph1 {
+  text-align:left;
+}
+.droplist2 {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
